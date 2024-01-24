@@ -1,0 +1,22 @@
+{
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": 2022,
+    "color": "Polar White",
+    "transmission": "Automatic",
+    "engine": {
+      "type": "Inline-4",
+      "displacement": "1.5L",
+      "horsepower": 115
+    },
+    "fuel_type": "Petrol",
+    "mileage": 17.0,
+    "features": [
+      "10.25-inch Touchscreen Infotainment",
+      "Panoramic Sunroof",
+      "Wireless Phone Charger",
+      "Smart Key with Push Button Start",
+      "Hill Start Assist Control"
+    ]
+}
+  
