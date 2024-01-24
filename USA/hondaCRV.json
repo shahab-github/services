@@ -1,0 +1,22 @@
+{
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2022,
+    "color": "Silver",
+    "transmission": "CVT",
+    "engine": {
+      "type": "Inline-4",
+      "displacement": "1.5L",
+      "horsepower": 190
+    },
+    "fuel_type": "Gasoline",
+    "mileage": 29.8,
+    "features": [
+      "Collision Mitigation Braking",
+      "Lane Keeping Assist",
+      "Apple CarPlay",
+      "Android Auto",
+      "Power Tailgate"
+    ]
+}
+  
