@@ -1,0 +1,22 @@
+{
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "color": "Silver",
+    "transmission": "Automatic",
+    "engine": {
+      "type": "Inline-4",
+      "displacement": "2.5L",
+      "horsepower": 203
+    },
+    "fuel_type": "Gasoline",
+    "mileage": 30.4,
+    "features": [
+      "Lane Departure Warning",
+      "Adaptive Cruise Control",
+      "Bluetooth Connectivity",
+      "Backup Camera",
+      "Keyless Entry"
+    ]
+}
+  
