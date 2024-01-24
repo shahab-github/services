@@ -1,0 +1,22 @@
+{
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "color": "Deep Crystal Blue",
+    "transmission": "Automatic",
+    "engine": {
+      "type": "Inline-4",
+      "displacement": "2.5L",
+      "horsepower": 187
+    },
+    "fuel_type": "Gasoline",
+    "mileage": 28.3,
+    "features": [
+      "Adaptive Cruise Control",
+      "Blind Spot Monitoring",
+      "Apple CarPlay",
+      "Android Auto",
+      "Rearview Camera"
+    ]
+}
+  
