@@ -14,3 +14,13 @@ func splitAndMapFromSlice(slice []string) map[string]string {
 	}
 	return m
 }
+
+
+// it should take a slice of string and return a map[string]string
+func mapFromSlice(slice []string) map[string]string {
+	m := make(map[string]string)
+	for _, s := range slice {
+		m[s] = s
+	}
+	return m
+}
